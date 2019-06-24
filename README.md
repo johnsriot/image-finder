@@ -1,4 +1,4 @@
-View the dev version of this application at: http://lyric-id-20190529010140-hostingbucket-lyric.s3-website-us-east-1.amazonaws.com/
+View the dev version of this application [here.](http://lyric-id-20190529010140-hostingbucket-lyric.s3-website-us-east-1.amazonaws.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
